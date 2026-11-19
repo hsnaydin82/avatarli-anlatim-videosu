@@ -1,0 +1,91 @@
+<svg class="avatar" id="avatar" viewBox="0 0 260 300" aria-hidden="true">
+  <g class="av-govde">
+    <!-- gövde / gömlek -->
+    <path d="M30 300 L36 238 C40 214 60 204 86 198 L104 192 L136 192 L154 198 C180 204 200 214 204 238 L210 300 Z" fill="#6F747C"/>
+    <path d="M150 198 C176 204 198 214 202 238 L208 300 L170 300 C172 260 166 222 150 198 Z" fill="#62676F"/>
+    <path d="M102 158 L102 196 C110 205 130 205 138 196 L138 158 Z" fill="#E2AB88"/>
+    <path d="M106 192 L120 210 L134 192 Z" fill="#E9B895"/>
+    <path d="M104 186 L120 207 L101 216 L91 195 Z" fill="#80858D" stroke="#555A61" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M136 186 L120 207 L139 216 L149 195 Z" fill="#80858D" stroke="#555A61" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M120 210 L120 300" stroke="#575C63" stroke-width="2.5"/>
+    <circle cx="120" cy="230" r="2.6" fill="#45494F"/><circle cx="120" cy="258" r="2.6" fill="#45494F"/><circle cx="120" cy="286" r="2.6" fill="#45494F"/>
+    <!-- duran kollar -->
+    <path class="kol-sol-dur" d="M37 236 C31 258 28 282 27 300 L54 300 C54 280 56 262 60 246 Z" fill="#62676F"/>
+    <path class="kol-sag-dur" d="M203 236 C209 258 212 282 213 300 L186 300 C186 280 184 262 180 246 Z" fill="#575C63"/>
+  </g>
+
+  <g class="av-bas">
+    <ellipse cx="79" cy="112" rx="8" ry="13" fill="#E6B391"/>
+    <ellipse cx="161" cy="112" rx="8" ry="13" fill="#E6B391"/>
+    <path d="M79 104 C79 66 96 52 120 52 C144 52 161 66 161 104 C161 138 147 161 120 165 C93 161 79 138 79 104 Z" fill="#F2C4A2"/>
+    <path d="M120 165 C147 161 161 138 161 104 C161 128 150 150 128 158 Z" fill="#E8B593" opacity=".7"/>
+    <!-- saç -->
+    <path d="M76 108 C70 64 88 36 122 33 C152 31 170 54 165 104 C163 92 160 80 154 72 C140 76 114 73 95 64 C87 76 80 90 76 108 Z" fill="#2F221C"/>
+    <path d="M92 66 C94 42 118 26 150 36 C140 40 134 46 133 55 C124 52 106 56 92 66 Z" fill="#3B2B23"/>
+    <path d="M112 44 C124 38 138 38 146 42" stroke="#4A372D" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <!-- kaşlar -->
+    <path class="kas" d="M90 90 Q100 83 111 88" stroke="#2F221C" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <path class="kas" d="M129 88 Q140 83 150 90" stroke="#2F221C" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <!-- gözler -->
+    <g class="gozler">
+      <ellipse cx="101" cy="104" rx="5.2" ry="6.2" fill="#2A1D17"/><circle cx="102.8" cy="101.8" r="1.7" fill="#fff"/>
+      <ellipse cx="139" cy="104" rx="5.2" ry="6.2" fill="#2A1D17"/><circle cx="140.8" cy="101.8" r="1.7" fill="#fff"/>
+      <path d="M94 112 Q101 115 108 112 M132 112 Q139 115 146 112" stroke="#D99D7B" stroke-width="2" fill="none" stroke-linecap="round"/>
+    </g>
+    <!-- burun -->
+    <path d="M120 106 Q115 121 119 126 Q123 128 127 125" stroke="#CF9472" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <ellipse cx="94" cy="128" rx="8" ry="4.5" fill="#EE9C86" opacity=".45"/>
+    <ellipse cx="146" cy="128" rx="8" ry="4.5" fill="#EE9C86" opacity=".45"/>
+    <!-- ağız -->
+    <g class="agiz agiz-gulus">
+      <path d="M97 135 Q120 160 143 135 Q120 141 97 135 Z" fill="#fff" stroke="#8C3A2F" stroke-width="2.6" stroke-linejoin="round"/>
+      <path d="M103 141 Q120 154 137 141 Q120 147 103 141 Z" fill="#B5544A" opacity=".5"/>
+      <path d="M94 132 Q92 136 95 139 M146 132 Q148 136 145 139" stroke="#D99D7B" stroke-width="2" fill="none" stroke-linecap="round"/>
+    </g>
+    <g class="agiz agiz-acik">
+      <path d="M104 136 Q120 133 136 136 Q134 154 120 155 Q106 154 104 136 Z" fill="#6E2620" stroke="#8C3A2F" stroke-width="2.4" stroke-linejoin="round"/>
+      <path d="M106 137 Q120 134.5 134 137 L133 141 Q120 139 107 141 Z" fill="#fff"/>
+      <ellipse cx="120" cy="150" rx="7" ry="3" fill="#C9564C"/>
+    </g>
+    <g class="agiz agiz-yarim">
+      <path d="M104 137 Q120 135 136 137 Q133 147 120 148 Q107 147 104 137 Z" fill="#6E2620" stroke="#8C3A2F" stroke-width="2.4" stroke-linejoin="round"/>
+      <path d="M106 138 Q120 136.5 134 138 L133 141 Q120 140 107 141 Z" fill="#fff"/>
+    </g>
+    <g class="agiz agiz-o">
+      <ellipse cx="120" cy="143" rx="7" ry="8.5" fill="#6E2620" stroke="#8C3A2F" stroke-width="2.4"/>
+    </g>
+    <!-- ter damlası, ünlem, parıltı -->
+    <path class="av-ter" d="M166 70 C166 70 158 82 158 87 A8 8 0 0 0 174 87 C174 82 166 70 166 70 Z" fill="#8FD3FF" stroke="#fff" stroke-width="1.5"/>
+    <g class="av-unlem" stroke="#D7F77A" stroke-width="4" stroke-linecap="round">
+      <path d="M170 40 L180 26"/><path d="M178 52 L194 46"/><path d="M160 34 L162 18"/>
+    </g>
+  </g>
+
+  <!-- pozlar: ekranın sağındaki kol -->
+  <g class="poz poz-isaret">
+    <path d="M192 226 C206 240 214 256 214 272" stroke="#575C63" stroke-width="32" fill="none" stroke-linecap="round"/>
+    <path d="M214 272 L224 196" stroke="#62676F" stroke-width="27" fill="none" stroke-linecap="round"/>
+    <path d="M216 184 L232 184 L231 198 L217 198 Z" fill="#E6B391"/>
+    <rect x="212" y="140" width="9.5" height="40" rx="4.75" fill="#F2C4A2" transform="rotate(-8 217 170)"/>
+    <ellipse cx="225" cy="182" rx="14" ry="12.5" fill="#F2C4A2"/>
+    <path d="M226 172 L236 174 M227 180 L237 182 M227 188 L236 190" stroke="#D99D7B" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M213 184 Q220 192 230 188" stroke="#D99D7B" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+  </g>
+  <g class="poz poz-sun">
+    <path d="M192 226 C210 236 220 252 222 268" stroke="#575C63" stroke-width="32" fill="none" stroke-linecap="round"/>
+    <path d="M222 268 L238 222" stroke="#62676F" stroke-width="27" fill="none" stroke-linecap="round"/>
+    <ellipse cx="243" cy="206" rx="13" ry="15" fill="#F2C4A2"/>
+    <rect x="232" y="180" width="7" height="22" rx="3.5" fill="#F2C4A2" transform="rotate(-18 235 191)"/>
+    <rect x="240" y="177" width="7" height="24" rx="3.5" fill="#F2C4A2" transform="rotate(-4 243 189)"/>
+    <rect x="248" y="180" width="7" height="22" rx="3.5" fill="#F2C4A2" transform="rotate(10 251 191)"/>
+    <rect x="226" y="202" width="7" height="16" rx="3.5" fill="#F2C4A2" transform="rotate(-60 229 210)"/>
+  </g>
+  <!-- ekranın solundaki kol: düşünme (el çenede) -->
+  <g class="poz poz-dusun">
+    <path d="M48 230 C36 246 34 262 40 276" stroke="#62676F" stroke-width="32" fill="none" stroke-linecap="round"/>
+    <path d="M40 276 C58 250 78 214 98 186" stroke="#6F747C" stroke-width="27" fill="none" stroke-linecap="round"/>
+    <ellipse cx="108" cy="170" rx="14" ry="12" fill="#F2C4A2"/>
+    <rect x="110" y="140" width="8" height="26" rx="4" fill="#F2C4A2" transform="rotate(18 114 153)"/>
+    <path d="M98 168 Q106 176 116 172" stroke="#D99D7B" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>
